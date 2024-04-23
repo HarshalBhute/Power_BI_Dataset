@@ -13,3 +13,10 @@ The Dataset is about working proffessionals giving information about their avera
 3. Making Visualization using __Power BI__
 
 
+## Insights
+Pattern observed were:-
+1. There is a surge in __Data Domain__ job but its surge is maximum in India and USA may be this is due to Indian Population and Silicon Valley's Data Store.
+2. More than 50% of proffessionals are happy with their work-life balance but more than 50% are not satisfied with their pay cheques.
+3. Approx 30% proffessionals find it difficult to break into Data domain while 28% find it difficult.
+4. Proffessionals prefer Python language for Data Analytics may be due to its user friendly syntax and wide applications.
+
